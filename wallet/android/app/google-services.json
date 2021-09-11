@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394306874407",
+    "project_id": "wallet-ad338",
+    "storage_bucket": "wallet-ad338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394306874407:android:d20b894a859386f2c73202",
+        "android_client_info": {
+          "package_name": "com.wallet.wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394306874407-ggjopkqi0f1ugjlbopc4396pdv2effu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_ELKt3rf9dC-Q8zHo4d3IKfhSbAC2rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394306874407-ggjopkqi0f1ugjlbopc4396pdv2effu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
